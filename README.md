@@ -12,7 +12,7 @@
 
 
 ✨ Olá! Sou Mariana, graduada em Gestão da Tecnologia da Informação pela CESAR School, atualmente cursando Análise e Desenvolvimento de Sistemas na UNINTER. 
-   Minha trajetória começou na Publicidade, que despertou em mim a paixão por soluções criativas — mas foi na tecnologia que encontrei espaço para transformá-las em algo prático, inovador e escalável.
+   Minha trajetória começou na Publicidade, que despertou em mim a paixão por soluções criativas, mas foi na tecnologia que encontrei espaço para transformá-las em algo prático, inovador e escalável.
 
 🎓 Atualmente, atuo como Tutora de Tecnologia no projeto **Florescendo Talentos**, onde ensino lógica de programação, boas práticas e desenvolvimento web para alunos do ensino médio público em Pernambuco. 
    Já participei de hackathons, liderei projetos com base em metodologias ágeis e desenvolvi soluções voltadas à análise de dados com foco em vulnerabilidade social e informalidade no varejo de Pernambuco.
