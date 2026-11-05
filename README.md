@@ -24,7 +24,7 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- Linguagens: `HTML` · `CSS` · `JavaScript` · `Python`  
+- Linguagens: `HTML` · `CSS` · `JavaScript` · `Python`· `Mendix`  
 - Ferramentas: `Trello` · `Figma` · `Canva` . `Miro`   
 - Metodologias: `Scrum` · `Kanban` · `PBL`  
 - Em aprendizado: `Git` · `React` · `Node.js`
