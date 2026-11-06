@@ -51,5 +51,5 @@
 
 - 🎯 Meu propósito é entregar valor através da tecnologia, com empatia e visão social.  
 - 🤝 Valorizo ambientes colaborativos, inclusivos e com espaço para crescer.  
-- 🚀 Estou aberta a projetos, parcerias e conexões com propósito!
+
 
